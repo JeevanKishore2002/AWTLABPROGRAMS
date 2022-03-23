@@ -1,0 +1,19 @@
+{
+  "name": "awtlabwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ArrowKeyword.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeevanKishore2002/AWTLABPROGRAMS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeevanKishore2002/AWTLABPROGRAMS/issues"
+  },
+  "homepage": "https://github.com/JeevanKishore2002/AWTLABPROGRAMS#readme"
+}

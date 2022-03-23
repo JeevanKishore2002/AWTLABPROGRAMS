@@ -1,5 +1,5 @@
-//classes using inheritance
-/*class car
+/*
+class car
 {
     constructor(name){
         this.cname=name;
@@ -58,4 +58,5 @@ s.display();*/
 }
 Student.display();
 */
+
 
